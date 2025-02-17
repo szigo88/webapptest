@@ -1,0 +1,618 @@
+{
+    "Company": [
+        {
+            "id": 1,
+            "name": "Shell",
+            "phone": "+7 291 651 9715",
+            "city": "Munduk",
+            "location": "4580 Old Gate Circle"
+        },
+        {
+            "id": 2,
+            "name": "BP",
+            "phone": "+63 377 719 0406",
+            "city": "Maojiagang",
+            "location": "15402 Graedel Way"
+        },
+        {
+            "id": 3,
+            "name": "Volkswagen",
+            "phone": "+48 843 535 1158",
+            "city": "Baikouquan",
+            "location": "6 Armistice Street"
+        },
+        {
+            "id": 4,
+            "name": "Vitol Group",
+            "phone": "+46 257 238 3554",
+            "city": "Helsingborg",
+            "location": "1104 Myrtle Court"
+        },
+        {
+            "id": 5,
+            "name": "Glencore",
+            "phone": "+86 646 204 7515",
+            "city": "Combapata",
+            "location": "98 Debs Street"
+        },
+        {
+            "id": 6,
+            "name": "Total",
+            "phone": "+62 583 423 3655",
+            "city": "Gangkou",
+            "location": "984 Dwight Place"
+        },
+        {
+            "id": 7,
+            "name": "Gazprom",
+            "phone": "+86 833 518 4013",
+            "city": "Mitzpe Ramon",
+            "location": "5 Barby Parkway"
+        },
+        {
+            "id": 8,
+            "name": "Stellantis",
+            "phone": "+251 581 328 9654",
+            "city": "Samangawah",
+            "location": "063 Lawn Crossing"
+        },
+        {
+            "id": 9,
+            "name": "Mercedes-Benz Group",
+            "phone": "+62 839 446 3733",
+            "city": "Lékhaio",
+            "location": "83041 Sugar Point"
+        },
+        {
+            "id": 10,
+            "name": "Exor",
+            "phone": "+380 558 606 2172",
+            "city": "Yimamu",
+            "location": "7877 Daystar Hill"
+        },
+        {
+            "id": 11,
+            "name": "Allianz",
+            "phone": "+62 855 984 8544",
+            "city": "Aral",
+            "location": "40551 Glacier Hill Lane"
+        },
+        {
+            "id": 12,
+            "name": "Lukoil",
+            "phone": "+30 737 605 8222",
+            "city": "Lancaster",
+            "location": "5 Twin Pines Park"
+        },
+        {
+            "id": 13,
+            "name": "Rosneft",
+            "phone": "+1 305 287 4187",
+            "city": "Kunheda Woerzu Manzu",
+            "location": "1865 Jenifer Circle"
+        },
+        {
+            "id": 14,
+            "name": "BMW",
+            "phone": "+420 742 770 5361",
+            "city": "Calatrava",
+            "location": "24 Anniversary Lane"
+        },
+        {
+            "id": 15,
+            "name": "AXA",
+            "phone": "+62 825 664 6664",
+            "city": "Bilohirsk",
+            "location": "0 Farragut Avenue"
+        },
+        {
+            "id": 16,
+            "name": "Assicurazioni Generali",
+            "phone": "+86 643 550 9044",
+            "city": "Itéa",
+            "location": "097 Ridgeway Avenue"
+        },
+        {
+            "id": 17,
+            "name": "Nestlé",
+            "phone": "+81 264 255 6904",
+            "city": "Caveral",
+            "location": "33 Hoard Pass"
+        },
+        {
+            "id": 18,
+            "name": "Siemens",
+            "phone": "+30 985 738 4056",
+            "city": "Novokhovrino",
+            "location": "84 7th Center"
+        },
+        {
+            "id": 19,
+            "name": "Carrefour",
+            "phone": "+504 157 824 8914",
+            "city": "Luan Balu",
+            "location": "1 Milwaukee Drive"
+        },
+        {
+            "id": 20,
+            "name": "Deutsche Telekom",
+            "phone": "+33 151 356 4591",
+            "city": "Baní",
+            "location": "04 Sloan Center"
+        },
+        {
+            "id": 21,
+            "name": "Bosch",
+            "phone": "+62 522 829 3428",
+            "city": "Tsilna",
+            "location": "4 Thackeray Place"
+        },
+        {
+            "id": 22,
+            "name": "Enel",
+            "phone": "+7 451 505 9582",
+            "city": "Kouango",
+            "location": "11583 Granby Park"
+        },
+        {
+            "id": 23,
+            "name": "ArcelorMittal",
+            "phone": "+48 144 559 4809",
+            "city": "Xinwu",
+            "location": "3 Calypso Road"
+        },
+        {
+            "id": 24,
+            "name": "Airbus",
+            "phone": "+55 442 228 5800",
+            "city": "Tysmenychany",
+            "location": "651 Northfield Way"
+        },
+        {
+            "id": 25,
+            "name": "Eni",
+            "phone": "+381 859 158 7597",
+            "city": "Bristol",
+            "location": "4 Darwin Circle"
+        },
+        {
+            "id": 26,
+            "name": "Électricité de France",
+            "phone": "+86 205 749 2487",
+            "city": "Choszczno",
+            "location": "7 Kenwood Center"
+        },
+        {
+            "id": 27,
+            "name": "Unilever",
+            "phone": "+7 825 682 3378",
+            "city": "Notre-Dame-de-l'Île-Perrot",
+            "location": "64919 Ridgeway Terrace"
+        },
+        {
+            "id": 28,
+            "name": "Tesco",
+            "phone": "+63 456 311 9489",
+            "city": "Wahang Dua",
+            "location": "42 Green Ridge Terrace"
+        },
+        {
+            "id": 29,
+            "name": "Hoffmann-La Roche",
+            "phone": "",
+            "city": "Sanshengyuan",
+            "location": "7076 Golf Course Drive"
+        },
+        {
+            "id": 30,
+            "name": "Deutsche Post",
+            "phone": "+230 422 556 3309",
+            "city": "Solok",
+            "location": "40 Brickson Park Place"
+        },
+        {
+            "id": 31,
+            "name": "Orange",
+            "phone": "+86 802 535 5770",
+            "city": "Trzin",
+            "location": "22187 Golf Course Lane"
+        },
+        {
+            "id": 32,
+            "name": "NatWest Group",
+            "phone": "+7 662 407 6761",
+            "city": "Kaduna",
+            "location": "3 Hallows Court"
+        },
+        {
+            "id": 33,
+            "name": "Ahold Delhaize",
+            "phone": "+63 600 666 9338",
+            "city": "Wenxian Chengguanzhen",
+            "location": "90813 Cody Street"
+        },
+        {
+            "id": 34,
+            "name": "Aviva",
+            "phone": "+236 921 522 1089",
+            "city": "Paris",
+            "location": "338 Doe Crossing Court"
+        },
+        {
+            "id": 35,
+            "name": "Auchan",
+            "phone": "+30 251 134 0139",
+            "city": "Lipu",
+            "location": "3844 Esch Trail"
+        },
+        {
+            "id": 36,
+            "name": "Equinor",
+            "phone": "+86 831 415 4983",
+            "city": "Huangcun",
+            "location": "1043 Surrey Court"
+        },
+        {
+            "id": 37,
+            "name": "Maersk",
+            "phone": "+82 970 662 5613",
+            "city": "Jan Kempdorp",
+            "location": "7204 Delladonna Center"
+        },
+        {
+            "id": 38,
+            "name": "Engie",
+            "phone": "",
+            "city": "Cali",
+            "location": "1907 Hagan Point"
+        },
+        {
+            "id": 39,
+            "name": "Rio Tinto",
+            "phone": "+55 647 941 9537",
+            "city": "Selebi-Phikwe",
+            "location": "334 Redwing Street"
+        },
+        {
+            "id": 40,
+            "name": "BASF",
+            "phone": "+1 701 590 2172",
+            "city": "Cunén",
+            "location": "0769 Mayfield Circle"
+        },
+        {
+            "id": 41,
+            "name": "Novartis",
+            "phone": "+86 150 112 3853",
+            "city": "Mungkin",
+            "location": ""
+        },
+        {
+            "id": 42,
+            "name": "Renault",
+            "phone": "+86 955 119 5716",
+            "city": "Redakodi",
+            "location": "846 Crescent Oaks Drive"
+        },
+        {
+            "id": 43,
+            "name": "Saint-Gobain",
+            "phone": "+7 811 363 9321",
+            "city": "Novaya Lyalya",
+            "location": "09 Fallview Crossing"
+        },
+        {
+            "id": 44,
+            "name": "Prudential",
+            "phone": "+86 839 711 0893",
+            "city": "Türkmenbasy",
+            "location": "0027 Buell Road"
+        },
+        {
+            "id": 45,
+            "name": "UniCredit",
+            "phone": "+63 701 660 2094",
+            "city": "Kozhva",
+            "location": "2 Pleasure Parkway"
+        },
+        {
+            "id": 46,
+            "name": "HSBC",
+            "phone": "+48 695 749 1914",
+            "city": "Cikeper",
+            "location": "3 Canary Lane"
+        },
+        {
+            "id": 47,
+            "name": "Zurich Insurance Group",
+            "phone": "+27 325 596 8411",
+            "city": "Merke",
+            "location": "51690 Village Green Junction"
+        },
+        {
+            "id": 48,
+            "name": "Deutsche Bahn",
+            "phone": "+351 571 801 5140",
+            "city": "Guanchao",
+            "location": "57 Golden Leaf Place"
+        },
+        {
+            "id": 49,
+            "name": "CNP Assurances",
+            "phone": "+86 535 737 9880",
+            "city": "Annopol",
+            "location": "58 Gina Crossing"
+        },
+        {
+            "id": 50,
+            "name": "Munich Re",
+            "phone": "+62 567 937 9866",
+            "city": "Mabugang",
+            "location": "3 Hauk Place"
+        }
+    ],
+    "Device": [
+        {
+            "company_id": 2,
+            "device": "eu-kklo-c-01",
+            "ip": "206.73.34.112",
+            "class_id": 3
+        },
+        {
+            "company_id": 7,
+            "device": "eu-hijk-c-02",
+            "ip": "69.78.229.241",
+            "class_id": 2
+        },
+        {
+            "company_id": 7,
+            "device": "eu-ujjk-c-01",
+            "ip": "94.186.77.230",
+            "class_id": 1
+        },
+        {
+            "company_id": 7,
+            "device": "eu-vgtj-c-01",
+            "ip": "115.205.103.43",
+            "class_id": 4
+        },
+        {
+            "company_id": 8,
+            "device": "eu-csqw-c-01",
+            "ip": "247.102.11.7",
+            "class_id": 4
+        },
+        {
+            "company_id": 8,
+            "device": "eu-ztgb-c-02",
+            "ip": "182.25.51.79",
+            "class_id": 4
+        },
+        {
+            "company_id": 10,
+            "device": "eu-dder-c-02",
+            "ip": "233.213.193.129",
+            "class_id": 4
+        },
+        {
+            "company_id": 10,
+            "device": "eu-aasd-c-02",
+            "ip": "75.168.3.55",
+            "class_id": 4
+        },
+        {
+            "company_id": 11,
+            "device": "eu-llki-c-01",
+            "ip": "185.32.198.180",
+            "class_id": 1
+        },
+        {
+            "company_id": 11,
+            "device": "eu-puti-c-02",
+            "ip": "236.176.236.214",
+            "class_id": 3
+        },
+        {
+            "company_id": 16,
+            "device": "eu-bloo-c-01",
+            "ip": "52.148.229.229",
+            "class_id": 1
+        },
+        {
+            "company_id": 17,
+            "device": "eu-okii-c-01",
+            "ip": "139.235.132.59",
+            "class_id": 3
+        },
+        {
+            "company_id": 17,
+            "device": "eu-ppki-c-01",
+            "ip": "66.43.92.17",
+            "class_id": 2
+        },
+        {
+            "company_id": 19,
+            "device": "eu-uklp-c-02",
+            "ip": "5.215.126.0",
+            "class_id": 2
+        },
+        {
+            "company_id": 22,
+            "device": "eu-iiio-c-01",
+            "ip": "231.216.14.231",
+            "class_id": 4
+        },
+        {
+            "company_id": 23,
+            "device": "eu-zzuo-c-03",
+            "ip": "200.1.235.20",
+            "class_id": 2
+        },
+        {
+            "company_id": 23,
+            "device": "eu-ctgh-c-02",
+            "ip": "110.16.121.105",
+            "class_id": 4
+        },
+        {
+            "company_id": 23,
+            "device": "eu-vfet-c-01",
+            "ip": "132.228.127.111",
+            "class_id": 2
+        },
+        {
+            "company_id": 23,
+            "device": "eu-bthg-c-01",
+            "ip": "160.187.142.93",
+            "class_id": 2
+        },
+        {
+            "company_id": 24,
+            "device": "eu-kopl-c-01",
+            "ip": "191.254.123.119",
+            "class_id": 4
+        },
+        {
+            "company_id": 24,
+            "device": "eu-kiop-c-02",
+            "ip": "14.63.205.169",
+            "class_id": 3
+        },
+        {
+            "company_id": 25,
+            "device": "eu-cdee-c-01",
+            "ip": "21.30.84.2",
+            "class_id": 2
+        },
+        {
+            "company_id": 26,
+            "device": "eu-vdrt-c-01",
+            "ip": "147.197.214.200",
+            "class_id": 3
+        },
+        {
+            "company_id": 30,
+            "device": "eu-caws-c-01",
+            "ip": "77.97.215.155",
+            "class_id": 2
+        },
+        {
+            "company_id": 31,
+            "device": "eu-vlli-c-01",
+            "ip": "18.79.8.227",
+            "class_id": 3
+        },
+        {
+            "company_id": 31,
+            "device": "eu-zzhj-c-01",
+            "ip": "108.125.242.209",
+            "class_id": 4
+        },
+        {
+            "company_id": 32,
+            "device": "eu-weqw-c-02",
+            "ip": "221.124.203.150",
+            "class_id": 3
+        },
+        {
+            "company_id": 32,
+            "device": "eu-vjji-c-02",
+            "ip": "166.10.28.198",
+            "class_id": 4
+        },
+        {
+            "company_id": 32,
+            "device": "eu-bgzz-c-02",
+            "ip": "87.95.107.149",
+            "class_id": 2
+        },
+        {
+            "company_id": 32,
+            "device": "eu-bjnm-c-01",
+            "ip": "237.103.183.58",
+            "class_id": 1
+        },
+        {
+            "company_id": 36,
+            "device": "eu-zzik-c-01",
+            "ip": "59.16.5.2",
+            "class_id": 4
+        },
+        {
+            "company_id": 36,
+            "device": "eu-vhik-c-01",
+            "ip": "19.24.226.253",
+            "class_id": 2
+        },
+        {
+            "company_id": 36,
+            "device": "eu-cswe-c-02",
+            "ip": "98.146.251.50",
+            "class_id": 3
+        },
+        {
+            "company_id": 37,
+            "device": "eu-hhji-c-01",
+            "ip": "151.147.91.3",
+            "class_id": 3
+        },
+        {
+            "company_id": 37,
+            "device": "eu-csrt-c-01",
+            "ip": "26.197.199.105",
+            "class_id": 1
+        },
+        {
+            "company_id": 39,
+            "device": "eu-rtiu-c-02",
+            "ip": "207.91.234.49",
+            "class_id": 1
+        },
+        {
+            "company_id": 42,
+            "device": "eu-deaa-c-01",
+            "ip": "174.195.116.49",
+            "class_id": 1
+        },
+        {
+            "company_id": 45,
+            "device": "eu-bjkk-c-01",
+            "ip": "68.102.183.78",
+            "class_id": 1
+        },
+        {
+            "company_id": 48,
+            "device": "eu-vfrt-c-02",
+            "ip": "125.179.140.212",
+            "class_id": 3
+        },
+        {
+            "company_id": 49,
+            "device": "eu-kash-c-02",
+            "ip": "154.65.144.2",
+            "class_id": 1
+        }
+    ],
+    "Class": [
+        {
+            "id": 1,
+            "type": "basic",
+            "recovery": "360"
+        },
+        {
+            "id": 2,
+            "type": "plus",
+            "recovery": "180"
+        },
+        {
+            "id": 3,
+            "type": "premium",
+            "recovery": "90"
+        },
+        {
+            "id": 4,
+            "type": "ultimate",
+            "recovery": "45"
+        }
+    ]
+}
