@@ -40,7 +40,7 @@ const ModifyClass = () => {
             const deviceClass = classesMap.get(device.class_id);
             return (
               <MenuItem key={device.ip} value={device.ip}>
-                {device.device} ({device.ip}) - {company?.name || 'Ismeretlen cég'} ➤ Jelenlegi: {deviceClass?.type}
+                {device.device} <span style={{ marginLeft: 1}}>➤</span> ({device.ip}) <span style={{ marginLeft: 1}}>➤</span> {company?.name || 'Ismeretlen cég'} ➤➤➤ Jelenlegi: {deviceClass?.type}
               </MenuItem>
             );
           })}
@@ -57,7 +57,7 @@ const ModifyClass = () => {
           >
             {Array.from(classesMap.values()).map(c => (
               <MenuItem key={c.id} value={c.id}>
-                {c.type} ({c.recovery} másodperc helyreállítás)
+                {c.type} ({c.recovery})
               </MenuItem>
             ))}
           </TextField>

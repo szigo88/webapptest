@@ -13,7 +13,7 @@ const validateDevice = (device: string) =>
 
 
 function AddNewDevice() {
-  const { companies, devices, addDevice } = useData();      // Context-ből származó adatok és metódusok
+  const { companies, devices, addDevice, classes } = useData();      // Context-ből származó adatok és metódusok
   const [formData, setFormData] = useState({                // Űrlap állapotának kezelése
     device: '',
     ip: '',
@@ -108,10 +108,10 @@ function AddNewDevice() {
           onChange={e => setFormData(p => ({ ...p, class_id: Number(e.target.value) }))}
           sx={{ mb: 2 }}
         >
-          <MenuItem value={1}>Basic</MenuItem>
-          <MenuItem value={2}>Plus</MenuItem>
-          <MenuItem value={3}>Premium</MenuItem>
-          <MenuItem value={4}>Ultimate</MenuItem>
+          {classes.map((cls) => (
+            <MenuItem key={cls.id} value={cls.id.toString()}>{cls.type}
+            </MenuItem>
+          ))}
         </TextField>
 
         <Button                                                                     // Hozzáadás Gomb
